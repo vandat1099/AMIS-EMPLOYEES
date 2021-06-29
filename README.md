@@ -1,5 +1,5 @@
-# Misa Amis 
-Misa Amis là bản dựng thử chức năng quản lý nhân viên bao gồm các thao tác cơ bản như thêm, sửa, xóa hay lọc danh sách nhân viên.
+#Amis 
+Amis là bản dựng thử chức năng quản lý nhân viên bao gồm các thao tác cơ bản như thêm, sửa, xóa hay lọc danh sách nhân viên.
 
 ## Các công nghệ và thư viện sử dụng
 ### Server
@@ -27,7 +27,7 @@ Misa Amis là bản dựng thử chức năng quản lý nhân viên bao gồm c
 
 ## Khởi chạy 
 ### Server
-1. Sử dụng VS 2019 open `~/Api/MISA.AMIS.sln`
+1. Sử dụng VS 2019 open `~/Api/AMIS.sln`
 2. Build resolution
 3. Running resolution, project sẽ chạy ở URL [https://localhost:44341/swagger/index.html](https://localhost:44341/swagger/index.html)
 
